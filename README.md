@@ -1,4 +1,7 @@
 # Web_scraping
 
-##To Run:
+To Run:
+clone the repository
+```
 python scraping_web.py
+```
